@@ -1,0 +1,10 @@
+{
+  "name": "vivifycss",
+  "version": "1.0.0",
+  "description": "Vivify is free CSS animation library",
+  "main": "vivify.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martz90/vivify.git"
+  },
+  "keywords": [
